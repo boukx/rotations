@@ -15,6 +15,8 @@ There is no concept of a haste softcap or diminishing returns for hunters as a w
 
 ![](./rotations.png)
 
+_The specifics of this graph are almost certainly outdated by the time you're reading this, but hopefully it gives you an example of rotations overtaking each other with haste._
+
 # Rotations from slow effective weapon speed to fast
 
 ## 2:1
