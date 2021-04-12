@@ -19,7 +19,7 @@ There is no concept of a haste softcap or diminishing returns for hunters as a w
 
 ## 2:1
 
-The rotation suited best for incredibly slow eWS is 2:1 `auto - steady - steady`.  You would certainly use this for situations where your eWS is 3.0 and greater, substituting steady shots for Multi-Shot on cooldown.  Currently, the french rotation seems to beat 2:1 for all eWS except Survival Hunters using Nerubian Slavemaker with 0 haste effects: you likely will never 2:1.
+The rotation suited best for incredibly slow eWS is 2:1 `auto - steady - steady`.  You would certainly use this for situations where your eWS is 3.0 and greater, substituting steady shots for Multi-Shot on cooldown.  Currently, the French rotation seems to beat 2:1 for all eWS except Survival Hunters using Nerubian Slavemaker with 0 haste effects: you likely will never 2:1.
 
 ## 3:2
 
@@ -27,7 +27,7 @@ The mechanic that made 3:2 interesting (GCD desync) does not work in classic or 
 
 ## The French Rotation (5:5:1:1)
 
-A variation of the TBC-theorycrafted 1:1.5, the french rotation uses the difference in GCD and cast time of Multi-Shot and Arcane Shot to pack more casts into a short space of time than for eWS ranging from 2.8 -> 1.8.  It diverges from 1:1.5 in that it repeats twice and then is followed by 1:1 to allow multi to come off of CD.
+A variation of the TBC-theorycrafted 1:1.5, the French rotation uses the difference in GCD and cast time of Multi-Shot and Arcane Shot to pack more casts into a short space of time than for eWS ranging from 2.8 -> 1.8.  It diverges from 1:1.5 in that it repeats twice and then is followed by 1:1 to allow multi to come off of CD.
 
 ```
 auto - steady - multi
@@ -43,7 +43,7 @@ auto - steady
 
 ### 5:6:1:1 
 
-An almost exotic variant of the french rotation, you might use 5:6:1:1 around 1.9->1.7 eWS when you are between the french rotation and 1:1ing.
+An almost exotic variant of the French rotation, you might use 5:6:1:1 around 1.9->1.7 eWS when you are between the French rotation and 1:1ing.
 
 ```
 auto - steady - arcane
@@ -54,13 +54,13 @@ auto - steady
 auto - steady
 ```
 
-### Weaving varients of the french rotation
+### Weaving variants of the French rotation
 
-For weapon speeds still too slow for 1:1, the best DPS comes from weaving through the french rotation.  The most optimal way to do this seems to be the french 2 weave, weaving after the Auto Shot following Arcane and Multishot.
+For weapon speeds still too slow for 1:1, the best DPS comes from weaving through the French rotation.  The most optimal way to do this seems to be the French 2 weave, weaving after the Auto Shot following Arcane and Multishot.
 
 ![](./french2w.png)
 
-If you are hasted by drums only, you could switch to french 3 weave (below).  Any more haste than just drums (and Bm/quiver) and you would move to 1:1 weaving.
+If you are hasted by drums only, you could switch to French 3 weave (below).  Any more haste than just drums (and Bm/quiver) and you would move to 1:1 weaving.
 
 ![](./french3w.png)
 
@@ -103,7 +103,7 @@ Only gods among us will ever reach the fated 1:4.
 
 # But, how
 
-There is a lot of impractical theorycrafting being discussed here and in [the hunter discord](https://discord.gg/8TVHxRr) right now.  **Thats good.**  We don't expect hunters to be 400iq button mashing machines.  The point of much of this theory is to be theory.  As we work more of it out, get better in-game numbers from the beta, and develop more tools, we'll turn the theory into actionable advice to hunters of all levels.  If you're interested in helping with that process or just awaiting some solid advice, join [the discord](https://discord.gg/8TVHxRr).  We will  make sure the best information is available there as we get closer to entering the Outlands.
+There is a lot of impractical theorycrafting being discussed here and in [the hunter discord](https://discord.gg/8TVHxRr) right now.  **That's good.**  We don't expect hunters to be 400iq button mashing machines.  The point of much of this theory is to be theory.  As we work more of it out, get better in-game numbers from the beta, and develop more tools, we'll turn the theory into actionable advice to hunters of all levels.  If you're interested in helping with that process or just awaiting some solid advice, join [the discord](https://discord.gg/8TVHxRr).  We will  make sure the best information is available there as we get closer to entering the Outlands.
 
 # Attribution
 
