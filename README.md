@@ -21,7 +21,7 @@ _The specifics of this graph are almost certainly outdated by the time you're re
 
 ## 2:1
 
-The rotation suited best for incredibly slow eWS is 2:1 `auto - steady - steady`.  You would certainly use this for situations where your eWS is 3.0 and greater, substituting steady shots for Multi-Shot on cooldown.  Currently, the French rotation seems to beat 2:1 for all eWS except Survival Hunters using Nerubian Slavemaker with 0 haste effects: you likely will never 2:1.
+The rotation suited best for incredibly slow eWS is 2:1 `auto - steady - steady`.  You would certainly use this for situations where your eWS is 3.2 or greater , replacing Steady Shot with Multi-Shot on cooldown.  Currently, the French rotation seems to beat 2:1 for all eWS except Survival Hunters using Nerubian Slavemaker with 0 haste effects: you likely will never 2:1 in raid.
 
 ## 3:2
 
