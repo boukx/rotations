@@ -103,7 +103,7 @@ Only gods among us will ever reach the fated 1:4.
 
 # But, how
 
-There is a lot of impractical theorycrafting being discussed here and in [the hunter discord](https://discord.gg/8TVHxRr) right now.  **Thats good.**  We don't expect hunters to be 400iq button mashing machines.  The point of much of this theory is to be theory.  As we work more of it out, get better in-game numbers from the beta, and develop more tools, we'll turn the theory into actionable advice to hunters of all level.  If you're interested in helping with that process or just awaiting some solid advice, join [the discord](https://discord.gg/8TVHxRr).  We will certainly make sure the best information is available as we get closer to entering the Outlands.
+There is a lot of impractical theorycrafting being discussed here and in [the hunter discord](https://discord.gg/8TVHxRr) right now.  **Thats good.**  We don't expect hunters to be 400iq button mashing machines.  The point of much of this theory is to be theory.  As we work more of it out, get better in-game numbers from the beta, and develop more tools, we'll turn the theory into actionable advice to hunters of all levels.  If you're interested in helping with that process or just awaiting some solid advice, join [the discord](https://discord.gg/8TVHxRr).  We will  make sure the best information is available there as we get closer to entering the Outlands.
 
 # Attribution
 
