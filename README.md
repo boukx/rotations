@@ -1,6 +1,6 @@
 # TBC Shot Rotations
 
-This is not a guide; this is a current summary of hunter rotation theorycrafting; this will not tell you how to play hunter in TBC; this **will** change multiple times before TBC is out; this is going to get a little wordy in places.  glhf
+This is not a guide; this is a current summary of hunter rotation theorycrafting; this will not tell you how to play hunter in TBC; this **will** change multiple times before TBC is out; this is going to get a little wordy in places.
 
 **Shot notation:** rotations are often shorthanded to a form like 2:1 where 2 and 1 indicate the number of Steady Shots and Auto Shots respectively.  Some rotations are generalized further; e.g. x-1:x is the rotation with 1 less steady shot than auto shot.
 
@@ -11,7 +11,7 @@ Some terms:
 
 ## Haste
 
-There is no concept of a haste softcap or diminishing returns for hunters as a whole; **more haste is better.**  Hell, more haste is _more_ better as the trend of haste stacking super-linearly increases our damage.  There are hard hastecaps for individual rotations; however, when you hit one of these you should have already transitioned to a higher DPS rotation which will continue to scale with haste.  
+There is no concept of a haste softcap or diminishing returns for hunters as a whole; **more haste is better.**  There are hard hastecaps for individual rotations; however, when you hit one of these you should have already transitioned to a higher DPS rotation which will continue to scale with haste.  
 
 ![](./rotations.png)
 
@@ -27,7 +27,7 @@ The mechanic that made 3:2 interesting (GCD desync) does not work in classic or 
 
 ## The French Rotation (5:5:1:1)
 
-A variation of the TBC-theorycrafted 1:1.5, the french rotation uses the difference in GCD and cast time of Multi-Shot and Arcane Shot to pack more casts into a short space of time than for eWS ranging from 2.8 -> 1.9.  Its -not- 1:1.5 in that it repeats twice and then is followed by 1:1 to allow multi to come off of CD.
+A variation of the TBC-theorycrafted 1:1.5, the french rotation uses the difference in GCD and cast time of Multi-Shot and Arcane Shot to pack more casts into a short space of time than for eWS ranging from 2.8 -> 1.8.  It diverges from 1:1.5 in that it repeats twice and then is followed by 1:1 to allow multi to come off of CD.
 
 ```
 auto - steady - multi
@@ -93,17 +93,20 @@ _(.38 is taking the haste required to get a fast (2.7s) bow to 1.5 eWS is 1.8 ha
 
 On the lower end of haste, weaving in normal melee hits is a DPS gain as well.
 
-If x-1:x'ing, you'd ideally like to weave between the back-to-back auto's you occasionally fire.  As you approach 1:x, I'd gander that weaving becomes a DPS loss _in practice_, as a single deadzone issue could delay you several autos in the fleeting time you're at this high haste.
+If x-1:x'ing, you'd ideally like to weave between the back-to-back auto's you occasionally fire.  As you approach 1:x, weaving becomes a DPS **risk** _in practice_, as a single positioning issue could delay you several autos in the fleeting time you're at this high haste; however in theory it remains a DPS gain until your eWS is somewhere below .3 seconds.
 
-# 1:x
+## 1:x
 
 The ultimate chad rotation, you begin 1:xing around the time where your eWS is less than your `GCD - Steady Cast Time`.  You'll start with 1:2, and if you're lucky maybe make it to 1:3 with some insane haste numbers.
 
 Only gods among us will ever reach the fated 1:4.
 
+# But, how
+
+There is a lot of impractical theorycrafting being discussed here and in [the hunter discord](https://discord.gg/8TVHxRr) right now.  **Thats good.**  We don't expect hunters to be 400iq button mashing machines.  The point of much of this theory is to be theory.  As we work more of it out, get better in-game numbers from the beta, and develop more tools, we'll turn the theory into actionable advice to hunters of all level.  If you're interested in helping with that process or just awaiting some solid advice, join [the discord](https://discord.gg/8TVHxRr).  We will certainly make sure the best information is available as we get closer to entering the Outlands.
 
 # Attribution
 
-This is an ongoing effort within the hunter discord.  There are countless individuals who have contributed to this theory in passing, as well as supported it via testing on the beta or in other ways. 
+This is an ongoing effort within [the hunter discord](https://discord.gg/8TVHxRr).  There are countless individuals who have contributed to this theory in passing, as well as supported it via testing on the beta or in other ways. 
 
 In no particular order, thank you Aegaehg and Colton for your help; Kanja for all your amazing [theorycrating and guide work](https://chasseur-bc.jimdofree.com/); Chitzen for translating and your contributions especially regarding exotic rotations; and Diziet for both your theory work and the indescribably useful visualization tool you wrote.
