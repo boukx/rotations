@@ -58,11 +58,11 @@ auto - steady
 
 ### Weaving variants of the French rotation
 
-For weapon speeds still too slow for 1:1, the best DPS comes from weaving through the French rotation.  The most optimal way to do this seems to be the French 2 weave, weaving after the Auto Shot following Arcane and Multishot.
+For weapon speeds too slow for 1:1, the best DPS comes from weaving through the French rotation.  The most optimal way to do this seems to be the French 2 weave, weaving after the Auto Shot following Arcane and Multishot.
 
 ![](./french2w.png)
 
-If you are hasted by drums only, you could switch to French 3 weave (below).  Any more haste than just drums (and Bm/quiver) and you would move to 1:1 weaving.
+If you are hasted by drums only, you could switch to French 3 weave (below).  Any more haste than just drums (and BM/quiver) and you would move to 1:1 weaving.
 
 ![](./french3w.png)
 
@@ -72,7 +72,7 @@ If you are hasted by drums only, you could switch to French 3 weave (below).  An
 
 ## x-1:x
 
-Old TC says that haste bringing your weapon speed below 1.5 is extraneous and silly.  Old TC is dumb.  As your eWS dips below 1.5, your autos will start to drift such that you are actually delaying your auto with your steady cast.  When this happens want to let an additional auto go through before your next steady to "reset" your auto swing to before steady.  This results in a denser packing of steadies and autos.  Here's a picture.
+As your eWS dips below 1.5, your autos will start to drift such that you are actually delaying your auto with your steady cast.  When this happens you will want to periodically let back-to-back autos go through before your next steady to let your auto swing "catch up."  This results in a denser packing of steadies and autos.  Here's a picture.
 
 ![](/delay.png)
 
